@@ -1,0 +1,7 @@
+streamlit==1.36.0
+plotly==5.23.0
+albumentations==1.4.7
+numpy
+pandas
+Pillow
+opencv-python-headless==4.10.0.84
